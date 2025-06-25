@@ -77,4 +77,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Aditaya08](https://github.com/Aditaya08)
+Made by [Aditaya08](https://github.com/Aditaya08)
